@@ -15,6 +15,7 @@
     "lib/manager.js",
     "lib/engine.js",
     "lib/socket.js",
-    "lib/emitter.js"
+    "lib/emitter.js",
+    "lib/url.js"
   ]
 }
